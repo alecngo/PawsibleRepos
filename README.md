@@ -4,21 +4,21 @@ Welcome to the Pawsible project, an innovative solution for connecting animal lo
 ## Repository Structure
 The Pawsible project is divided into multiple repositories, each serving a unique function in the overall architecture of the application. Below is a brief overview of each repository:
 
-### Frontend
+***Frontend***
 Repository: [PawsibleFrontEnd](https://github.com/alecngo/PawsibleFrontEnd)
 
 The frontend repository hosts the user interface for Pawsible. It's designed to provide a seamless and intuitive experience for users looking to adopt pets or learn more about pet care. The frontend is built using modern web technologies and frameworks to ensure a responsive and engaging user experience.
 
-### Backend Services
+***Backend***
 The backend of the Pawsible project is split into distinct services, each responsible for handling different aspects of the application's functionality:
 
-### Pet Finder Service
-Repository: PawsiblePetFinderService
+**Pet Finder Service**
+Repository: [PawsiblePetFinderService](https://github.com/alecngo/PawsibleFrontEnd)
 
 The Pet Finder Service is dedicated to matching potential adopters with pets. It aggregates data from various sources and provides a comprehensive search and filtering mechanism to help users find their ideal pet.
 
-### Customer Application Service
-Repository: CustomerApplicationService
+**Customer Application Service**
+Repository: [CustomerApplicationService](https://github.com/alecngo/CustomerApplicationService)
 
 The Customer Application Service manages user data, applications for pet adoption, and other customer-related functionalities. It ensures secure handling and storage of user data and streamlines the pet adoption process.
 
