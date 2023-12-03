@@ -7,7 +7,7 @@ The Pawsible project is divided into multiple repositories, each serving a uniqu
 ***Frontend***
 Repository: [PawsibleFrontEnd](https://github.com/alecngo/PawsibleFrontEnd)
 
-The frontend repository hosts the user interface for Pawsible. It's designed to provide a seamless and intuitive experience for users looking to adopt pets or learn more about pet care. The frontend is built using modern web technologies and frameworks to ensure a responsive and engaging user experience.
+The frontend repository hosts the user interface for Pawsible. It's designed to provide a seamless and intuitive experience for users looking to adopt pets or learn more about pet care. The frontend is built using **ReactJS**.
 
 ***Backend***
 The backend of the Pawsible project is split into distinct services, each responsible for handling different aspects of the application's functionality:
@@ -15,12 +15,12 @@ The backend of the Pawsible project is split into distinct services, each respon
 **Pet Finder Service**
 Repository: [PawsiblePetFinderService](https://github.com/alecngo/PawsibleFrontEnd)
 
-The Pet Finder Service is dedicated to matching potential adopters with pets. It aggregates data from various sources and provides a comprehensive search and filtering mechanism to help users find their ideal pet.
+The Pet Finder Service is dedicated to matching potential adopters with pets. It aggregates data from various sources and provides a comprehensive search and filtering mechanism to help users find their ideal pet. It is built using **GoLang**.
 
 **Customer Application Service**
 Repository: [CustomerApplicationService](https://github.com/alecngo/CustomerApplicationService)
 
-The Customer Application Service manages user data, applications for pet adoption, and other customer-related functionalities. It ensures secure handling and storage of user data and streamlines the pet adoption process.
+The Customer Application Service manages user data, applications for pet adoption, and other customer-related functionalities. It ensures secure handling and storage of user data and streamlines the pet adoption process. It is built using **Python, Flask, MongoDB**
 
 Feedback and Support
 If you have any feedback or need support, please open an issue in the relevant repository, and we'll be happy to assist you.
